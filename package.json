@@ -10,7 +10,7 @@
   "author": "Choi Kyuhyeon",
   "license": "ISC",
   "dependencies": {
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "object-hash": "^2.0.0",
     "randomstring": "^1.1.5",
     "web3": "^1.2.1"
